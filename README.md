@@ -1,4 +1,4 @@
-# Covid-19_Short_Term_Prediction
+# Covid-19: Short Term Prediction
 
 Aplicação Shiny que realiza previsões para o número de novos casos e de novas mortes por Covid-19 para os estados brasileiros e suas capitais utilizando modelos GAMLSS. Disponível em https://obsrpb.shinyapps.io/st_pred/.
 
